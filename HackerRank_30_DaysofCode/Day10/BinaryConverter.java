@@ -3,7 +3,6 @@ import java.io.*;
 
 public class BinaryConverter {
         public static void main(String[] args) {
-                // TODO Auto-generated method stub
                 int number = 10;
                 int b = integerToBinary(number);
                 System.out.println(b);
